@@ -1,8 +1,8 @@
 {
-  "name": "forest-night",
-  "displayName": "Forest Night",
-  "description": "A mystical VS Code theme blending ethereal magic with moonlit forest atmosphere",
-  "version": "1.0.0",
+  "name": "forest-night-theme",
+  "displayName": "Forest Night - Ethereal",
+  "description": "A mystical, nature-inspired VS Code theme blending ethereal magic with moonlit forest ambiance",
+  "version": "1.0.1",
   "publisher": "forrest-knight",
   "engines": {
     "vscode": "^1.74.0"
@@ -16,8 +16,9 @@
     "night",
     "ethereal",
     "magic",
+    "nature",
     "teal",
-    "purple",
+    "amber",
     "atmospheric",
     "moonlight"
   ],

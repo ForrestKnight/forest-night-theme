@@ -1,4 +1,4 @@
-# Forest Night
+# Forest Night - Ethereal
 
 ![Forest Night Theme](forest-night-theme.jpg)
 
@@ -7,11 +7,11 @@ Forest Night is a dark, nature-inspired color scheme for Visual Studio Code with
 ## Installation
 
 1. Press the extensions icon in your Visual Studio Code sidebar
-2. Search for "Forest Night" by forrest-knight
+2. Search for "Forest Night - Ethereal" by forrest-knight
 3. Click Install
 4. Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac) to open the command palette
 5. Type "Color Theme" and select "Preferences: Color Theme"
-6. Select "Forest Night" from the list
+6. Select "Forest Night - Ethereal" from the list
 
 ## Usage
 
