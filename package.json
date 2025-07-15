@@ -25,7 +25,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Forest Night",
+        "label": "Forest Night - Ethereal",
         "uiTheme": "vs-dark",
         "path": "./themes/forest-night-color-theme.json"
       }
