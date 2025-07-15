@@ -1,0 +1,43 @@
+{
+  "name": "forest-night",
+  "displayName": "Forest Night",
+  "description": "A mystical VS Code theme blending ethereal magic with moonlit forest atmosphere",
+  "version": "1.0.0",
+  "publisher": "forrest-knight",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "forest",
+    "night",
+    "ethereal",
+    "magic",
+    "teal",
+    "purple",
+    "atmospheric",
+    "moonlight"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Forest Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-night-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForrestKnight/forest-night-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/ForrestKnight/forest-night-theme/issues"
+  },
+  "homepage": "https://github.com/ForrestKnight/forest-night-theme#readme",
+  "license": "MIT",
+  "icon": "icon.png"
+}
