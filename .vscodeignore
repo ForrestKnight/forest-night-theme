@@ -1,0 +1,17 @@
+.vscode/**
+.vscode-test/**
+node_modules/**
+src/**
+.gitignore
+.yarnrc
+vsc-extension-quickstart.md
+**/tsconfig.json
+**/.eslintrc.json
+**/*.map
+**/*.ts
+.nyc_output
+out/test/**
+src/test/**
+.vscode-test/**
+**/*.vsix
+forest-night-demo.js
