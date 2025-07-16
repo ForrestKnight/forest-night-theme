@@ -11,7 +11,7 @@ import * as THREE from 'three'; // Variables in moonlight silver
 
 const API_URL = 'https://api.example.com/data'; // Constants in sage green
 const MAX_RETRIES = 3; // Numbers in sage green
-const DEFAULT_TIMEOUT = 5000; // More numbers
+const DEFAULT_TIMEOUT = 5000; // More numbers  
 
 // Class definition with types in earthy red
 class DataProcessor {
